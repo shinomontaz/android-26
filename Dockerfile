@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:latest
 
 ENV ANDROID_SDK_HOME /opt/android-sdk-linux
 ENV ANDROID_SDK_ROOT /opt/android-sdk-linux
